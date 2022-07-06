@@ -10,7 +10,6 @@ const Stars = ({ stars, reviews }) => {
     <Wrapper>
       <div className="stars">
         {tempStars}
-     
       </div>
       <p className="reviews">{reviews} customer reviews</p>
     </Wrapper>
